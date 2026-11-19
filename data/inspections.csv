@@ -1,0 +1,661 @@
+inspection_id,project_id,sub_id,phase,inspection_date,result,inspector
+1,2,1,Follow-up,2026-09-17,Pass,R. Alvarez
+2,2,1,Initial,2026-08-27,Pass,S. Nguyen
+3,2,1,Follow-up,2026-08-17,Pass with comments,M. Patel
+4,2,1,Follow-up,2026-07-04,Pass,T. Brooks
+5,2,1,Follow-up,2026-08-18,Pass,T. Brooks
+6,2,1,Preparatory,2026-09-17,Pass,R. Alvarez
+7,2,1,Preparatory,2026-09-30,Pass,R. Alvarez
+8,2,1,Follow-up,2026-08-13,Pass,R. Alvarez
+9,2,1,Follow-up,2026-09-26,Pass with comments,R. Alvarez
+10,2,1,Preparatory,2026-07-01,Pass,R. Alvarez
+11,2,1,Follow-up,2026-07-10,Pass,S. Nguyen
+12,2,1,Follow-up,2026-10-02,Pass with comments,M. Patel
+13,2,1,Initial,2026-08-08,Pass,R. Alvarez
+14,2,1,Follow-up,2026-05-03,Pass,R. Alvarez
+15,2,1,Follow-up,2026-10-24,Pass,M. Patel
+16,2,1,Preparatory,2026-10-04,Pass,R. Alvarez
+17,2,1,Follow-up,2026-05-13,Pass with comments,S. Nguyen
+18,2,1,Follow-up,2026-07-14,Pass,T. Brooks
+19,2,1,Follow-up,2026-05-09,Pass,R. Alvarez
+20,2,1,Follow-up,2026-09-17,Fail,R. Alvarez
+21,2,1,Follow-up,2026-07-22,Pass,M. Patel
+22,2,1,Preparatory,2026-06-22,Pass,M. Patel
+23,5,1,Preparatory,2026-09-30,Pass,M. Patel
+24,5,1,Initial,2026-10-27,Pass with comments,R. Alvarez
+25,5,1,Initial,2026-06-09,Pass with comments,R. Alvarez
+26,5,1,Preparatory,2026-07-22,Pass,R. Alvarez
+27,5,1,Preparatory,2026-08-29,Pass,T. Brooks
+28,5,1,Follow-up,2026-09-12,Pass,R. Alvarez
+29,5,1,Preparatory,2026-05-26,Pass,T. Brooks
+30,5,1,Initial,2026-10-07,Pass,T. Brooks
+31,5,1,Follow-up,2026-05-15,Fail,R. Alvarez
+32,5,1,Initial,2026-08-15,Pass,T. Brooks
+33,5,1,Initial,2026-09-18,Pass,R. Alvarez
+34,5,1,Initial,2026-10-20,Pass,M. Patel
+35,5,1,Follow-up,2026-07-23,Pass with comments,S. Nguyen
+36,5,1,Follow-up,2026-10-13,Pass with comments,S. Nguyen
+37,5,1,Follow-up,2026-08-30,Pass,R. Alvarez
+38,5,1,Follow-up,2026-05-15,Pass,R. Alvarez
+39,5,1,Follow-up,2026-06-17,Pass with comments,S. Nguyen
+40,5,1,Preparatory,2026-07-04,Pass,M. Patel
+41,5,1,Follow-up,2026-10-29,Pass,S. Nguyen
+42,5,1,Follow-up,2026-05-25,Pass,R. Alvarez
+43,5,1,Follow-up,2026-05-01,Pass,R. Alvarez
+44,5,1,Follow-up,2026-09-30,Pass,R. Alvarez
+45,4,1,Preparatory,2026-10-24,Pass,R. Alvarez
+46,4,1,Follow-up,2026-05-31,Pass,M. Patel
+47,4,1,Initial,2026-10-12,Fail,T. Brooks
+48,4,1,Follow-up,2026-09-30,Pass,S. Nguyen
+49,4,1,Follow-up,2026-09-03,Pass,R. Alvarez
+50,4,1,Initial,2026-07-08,Pass,T. Brooks
+51,4,1,Follow-up,2026-09-19,Pass,T. Brooks
+52,4,1,Follow-up,2026-07-29,Pass,T. Brooks
+53,4,1,Follow-up,2026-09-28,Fail,M. Patel
+54,4,1,Preparatory,2026-06-27,Pass,M. Patel
+55,4,1,Follow-up,2026-06-11,Pass,R. Alvarez
+56,4,1,Preparatory,2026-09-23,Pass,T. Brooks
+57,4,1,Follow-up,2026-10-22,Pass,T. Brooks
+58,4,1,Initial,2026-06-15,Fail,S. Nguyen
+59,4,1,Initial,2026-08-17,Pass,T. Brooks
+60,4,1,Preparatory,2026-10-26,Pass,T. Brooks
+61,4,1,Initial,2026-10-12,Pass,R. Alvarez
+62,4,1,Initial,2026-05-09,Pass,S. Nguyen
+63,4,1,Preparatory,2026-10-08,Pass,S. Nguyen
+64,4,1,Initial,2026-08-01,Pass,S. Nguyen
+65,4,1,Follow-up,2026-09-22,Pass with comments,R. Alvarez
+66,4,1,Follow-up,2026-08-15,Fail,R. Alvarez
+67,5,2,Follow-up,2026-06-10,Pass,S. Nguyen
+68,5,2,Follow-up,2026-06-05,Pass,R. Alvarez
+69,5,2,Follow-up,2026-07-30,Pass,M. Patel
+70,5,2,Initial,2026-05-04,Pass with comments,T. Brooks
+71,5,2,Initial,2026-08-29,Fail,M. Patel
+72,5,2,Preparatory,2026-09-14,Pass,R. Alvarez
+73,5,2,Follow-up,2026-08-09,Pass with comments,S. Nguyen
+74,5,2,Preparatory,2026-09-29,Pass,S. Nguyen
+75,5,2,Initial,2026-06-22,Pass,R. Alvarez
+76,5,2,Initial,2026-10-10,Pass,T. Brooks
+77,5,2,Preparatory,2026-09-22,Pass,R. Alvarez
+78,5,2,Follow-up,2026-10-07,Pass,R. Alvarez
+79,5,2,Preparatory,2026-07-25,Pass,M. Patel
+80,5,2,Initial,2026-08-17,Pass,S. Nguyen
+81,5,2,Initial,2026-09-05,Fail,S. Nguyen
+82,5,2,Initial,2026-10-08,Pass with comments,S. Nguyen
+83,5,2,Follow-up,2026-08-29,Pass,M. Patel
+84,5,2,Initial,2026-09-29,Pass,R. Alvarez
+85,5,2,Follow-up,2026-09-25,Pass,S. Nguyen
+86,5,2,Follow-up,2026-10-16,Pass,T. Brooks
+87,5,2,Initial,2026-06-21,Pass,R. Alvarez
+88,5,2,Preparatory,2026-06-09,Pass,T. Brooks
+89,1,2,Initial,2026-10-31,Pass with comments,M. Patel
+90,1,2,Preparatory,2026-09-09,Pass,S. Nguyen
+91,1,2,Initial,2026-09-17,Pass,R. Alvarez
+92,1,2,Initial,2026-09-17,Fail,R. Alvarez
+93,1,2,Follow-up,2026-06-18,Pass,S. Nguyen
+94,1,2,Initial,2026-05-13,Pass,R. Alvarez
+95,1,2,Preparatory,2026-07-30,Pass,R. Alvarez
+96,1,2,Initial,2026-05-08,Pass,S. Nguyen
+97,1,2,Preparatory,2026-08-28,Pass with comments,S. Nguyen
+98,1,2,Initial,2026-08-22,Pass,S. Nguyen
+99,1,2,Initial,2026-07-18,Pass,S. Nguyen
+100,1,2,Follow-up,2026-10-07,Pass,S. Nguyen
+101,1,2,Preparatory,2026-08-03,Pass,R. Alvarez
+102,1,2,Preparatory,2026-08-06,Pass,T. Brooks
+103,1,2,Initial,2026-08-15,Pass,R. Alvarez
+104,1,2,Follow-up,2026-09-27,Pass,T. Brooks
+105,1,2,Initial,2026-07-13,Pass,T. Brooks
+106,1,2,Follow-up,2026-05-27,Pass,R. Alvarez
+107,1,2,Preparatory,2026-10-22,Pass,T. Brooks
+108,1,2,Initial,2026-07-16,Pass,R. Alvarez
+109,1,2,Follow-up,2026-05-14,Pass,S. Nguyen
+110,1,2,Follow-up,2026-09-18,Pass,T. Brooks
+111,4,2,Preparatory,2026-07-13,Pass,T. Brooks
+112,4,2,Preparatory,2026-06-01,Pass,R. Alvarez
+113,4,2,Initial,2026-05-16,Pass,M. Patel
+114,4,2,Initial,2026-07-14,Pass,R. Alvarez
+115,4,2,Follow-up,2026-09-27,Fail,S. Nguyen
+116,4,2,Preparatory,2026-09-14,Pass,R. Alvarez
+117,4,2,Initial,2026-08-19,Pass,M. Patel
+118,4,2,Initial,2026-05-29,Pass,S. Nguyen
+119,4,2,Follow-up,2026-09-25,Pass,S. Nguyen
+120,4,2,Preparatory,2026-06-02,Pass,R. Alvarez
+121,4,2,Initial,2026-05-17,Pass,S. Nguyen
+122,4,2,Initial,2026-09-12,Pass,T. Brooks
+123,4,2,Preparatory,2026-10-23,Pass,S. Nguyen
+124,4,2,Follow-up,2026-05-23,Pass,T. Brooks
+125,4,2,Follow-up,2026-09-09,Pass,M. Patel
+126,4,2,Follow-up,2026-06-21,Pass,T. Brooks
+127,4,2,Follow-up,2026-08-08,Pass with comments,M. Patel
+128,4,2,Follow-up,2026-05-18,Pass,M. Patel
+129,4,2,Preparatory,2026-05-20,Pass with comments,R. Alvarez
+130,4,2,Preparatory,2026-10-12,Pass,T. Brooks
+131,4,2,Initial,2026-05-12,Pass with comments,S. Nguyen
+132,4,2,Preparatory,2026-07-22,Pass,R. Alvarez
+133,4,3,Follow-up,2026-07-13,Pass,T. Brooks
+134,4,3,Initial,2026-09-29,Fail,S. Nguyen
+135,4,3,Follow-up,2026-07-11,Pass with comments,M. Patel
+136,4,3,Preparatory,2026-09-11,Pass,M. Patel
+137,4,3,Preparatory,2026-06-27,Pass,R. Alvarez
+138,4,3,Initial,2026-10-17,Pass,T. Brooks
+139,4,3,Initial,2026-10-15,Pass with comments,M. Patel
+140,4,3,Initial,2026-07-12,Pass with comments,R. Alvarez
+141,4,3,Preparatory,2026-05-27,Pass,T. Brooks
+142,4,3,Preparatory,2026-05-13,Pass with comments,S. Nguyen
+143,4,3,Follow-up,2026-09-21,Pass,R. Alvarez
+144,4,3,Initial,2026-08-31,Fail,S. Nguyen
+145,4,3,Follow-up,2026-07-12,Pass,M. Patel
+146,4,3,Follow-up,2026-06-04,Fail,M. Patel
+147,4,3,Initial,2026-09-26,Pass with comments,T. Brooks
+148,4,3,Initial,2026-06-28,Pass,R. Alvarez
+149,4,3,Preparatory,2026-09-03,Fail,M. Patel
+150,4,3,Initial,2026-09-07,Fail,M. Patel
+151,4,3,Preparatory,2026-09-17,Pass with comments,T. Brooks
+152,4,3,Initial,2026-09-17,Pass,M. Patel
+153,4,3,Preparatory,2026-09-26,Pass,M. Patel
+154,4,3,Preparatory,2026-06-05,Pass,S. Nguyen
+155,1,3,Preparatory,2026-07-15,Pass,S. Nguyen
+156,1,3,Preparatory,2026-09-20,Pass,M. Patel
+157,1,3,Preparatory,2026-10-07,Pass,M. Patel
+158,1,3,Preparatory,2026-09-06,Fail,S. Nguyen
+159,1,3,Preparatory,2026-05-19,Pass,M. Patel
+160,1,3,Follow-up,2026-08-12,Fail,S. Nguyen
+161,1,3,Initial,2026-08-06,Pass,T. Brooks
+162,1,3,Initial,2026-10-02,Pass,M. Patel
+163,1,3,Preparatory,2026-07-28,Fail,S. Nguyen
+164,1,3,Preparatory,2026-08-09,Pass,M. Patel
+165,1,3,Follow-up,2026-07-04,Fail,M. Patel
+166,1,3,Follow-up,2026-07-22,Pass,R. Alvarez
+167,1,3,Follow-up,2026-09-16,Pass,S. Nguyen
+168,1,3,Preparatory,2026-08-26,Pass,S. Nguyen
+169,1,3,Preparatory,2026-08-20,Pass,T. Brooks
+170,1,3,Initial,2026-09-11,Fail,R. Alvarez
+171,1,3,Initial,2026-09-24,Pass with comments,M. Patel
+172,1,3,Follow-up,2026-10-15,Pass,M. Patel
+173,1,3,Initial,2026-08-01,Fail,S. Nguyen
+174,1,3,Preparatory,2026-09-01,Pass,T. Brooks
+175,1,3,Preparatory,2026-10-11,Pass with comments,T. Brooks
+176,1,3,Initial,2026-10-05,Pass,T. Brooks
+177,3,3,Preparatory,2026-08-22,Fail,M. Patel
+178,3,3,Initial,2026-07-08,Pass,S. Nguyen
+179,3,3,Preparatory,2026-09-30,Pass,T. Brooks
+180,3,3,Preparatory,2026-08-08,Pass,R. Alvarez
+181,3,3,Initial,2026-10-31,Pass,R. Alvarez
+182,3,3,Follow-up,2026-06-19,Pass with comments,M. Patel
+183,3,3,Follow-up,2026-06-11,Pass with comments,M. Patel
+184,3,3,Follow-up,2026-10-01,Pass,M. Patel
+185,3,3,Follow-up,2026-08-04,Pass with comments,R. Alvarez
+186,3,3,Follow-up,2026-10-31,Pass,S. Nguyen
+187,3,3,Preparatory,2026-10-15,Pass,M. Patel
+188,3,3,Follow-up,2026-10-17,Pass,R. Alvarez
+189,3,3,Follow-up,2026-09-18,Fail,T. Brooks
+190,3,3,Initial,2026-05-19,Pass,T. Brooks
+191,3,3,Initial,2026-10-14,Pass with comments,R. Alvarez
+192,3,3,Initial,2026-09-18,Fail,R. Alvarez
+193,3,3,Preparatory,2026-09-16,Pass,M. Patel
+194,3,3,Preparatory,2026-09-11,Pass,T. Brooks
+195,3,3,Preparatory,2026-05-08,Pass,R. Alvarez
+196,3,3,Preparatory,2026-08-12,Pass with comments,R. Alvarez
+197,3,3,Follow-up,2026-07-02,Pass,T. Brooks
+198,3,3,Preparatory,2026-06-02,Pass with comments,S. Nguyen
+199,5,4,Follow-up,2026-07-22,Pass,S. Nguyen
+200,5,4,Follow-up,2026-06-04,Pass,S. Nguyen
+201,5,4,Follow-up,2026-09-16,Pass,S. Nguyen
+202,5,4,Preparatory,2026-05-10,Pass,T. Brooks
+203,5,4,Preparatory,2026-08-07,Fail,M. Patel
+204,5,4,Follow-up,2026-07-07,Pass with comments,M. Patel
+205,5,4,Preparatory,2026-09-11,Pass,M. Patel
+206,5,4,Follow-up,2026-08-29,Pass,T. Brooks
+207,5,4,Preparatory,2026-10-01,Pass,R. Alvarez
+208,5,4,Initial,2026-09-15,Pass,M. Patel
+209,5,4,Initial,2026-09-25,Fail,T. Brooks
+210,5,4,Follow-up,2026-09-20,Pass,M. Patel
+211,5,4,Follow-up,2026-05-06,Pass with comments,T. Brooks
+212,5,4,Follow-up,2026-05-06,Pass,R. Alvarez
+213,5,4,Initial,2026-10-10,Pass,M. Patel
+214,5,4,Follow-up,2026-07-13,Pass,R. Alvarez
+215,5,4,Preparatory,2026-09-26,Pass,M. Patel
+216,5,4,Preparatory,2026-10-01,Pass,S. Nguyen
+217,5,4,Preparatory,2026-05-29,Pass,T. Brooks
+218,5,4,Initial,2026-06-18,Pass,M. Patel
+219,5,4,Initial,2026-08-11,Pass with comments,M. Patel
+220,5,4,Initial,2026-09-06,Fail,M. Patel
+221,2,4,Follow-up,2026-08-21,Pass,M. Patel
+222,2,4,Follow-up,2026-10-28,Pass with comments,T. Brooks
+223,2,4,Initial,2026-10-07,Pass,S. Nguyen
+224,2,4,Preparatory,2026-07-01,Pass,M. Patel
+225,2,4,Initial,2026-06-06,Pass,S. Nguyen
+226,2,4,Initial,2026-10-13,Pass,M. Patel
+227,2,4,Initial,2026-06-22,Fail,M. Patel
+228,2,4,Follow-up,2026-06-14,Pass,T. Brooks
+229,2,4,Initial,2026-09-22,Pass,R. Alvarez
+230,2,4,Preparatory,2026-07-09,Pass,M. Patel
+231,2,4,Preparatory,2026-05-20,Pass with comments,T. Brooks
+232,2,4,Follow-up,2026-08-15,Fail,T. Brooks
+233,2,4,Preparatory,2026-09-15,Pass,S. Nguyen
+234,2,4,Initial,2026-08-31,Pass with comments,M. Patel
+235,2,4,Initial,2026-10-06,Pass with comments,T. Brooks
+236,2,4,Initial,2026-06-23,Fail,S. Nguyen
+237,2,4,Initial,2026-09-18,Fail,T. Brooks
+238,2,4,Initial,2026-10-20,Pass with comments,R. Alvarez
+239,2,4,Initial,2026-08-08,Pass,S. Nguyen
+240,2,4,Preparatory,2026-07-31,Pass,S. Nguyen
+241,2,4,Follow-up,2026-07-08,Fail,S. Nguyen
+242,2,4,Follow-up,2026-08-26,Pass,T. Brooks
+243,3,4,Initial,2026-06-29,Pass,T. Brooks
+244,3,4,Initial,2026-10-03,Pass,M. Patel
+245,3,4,Follow-up,2026-06-24,Pass,S. Nguyen
+246,3,4,Initial,2026-07-15,Pass,M. Patel
+247,3,4,Preparatory,2026-07-21,Pass with comments,R. Alvarez
+248,3,4,Follow-up,2026-06-16,Pass,R. Alvarez
+249,3,4,Initial,2026-10-21,Pass,S. Nguyen
+250,3,4,Follow-up,2026-08-20,Pass with comments,S. Nguyen
+251,3,4,Preparatory,2026-06-26,Fail,S. Nguyen
+252,3,4,Follow-up,2026-05-14,Pass,T. Brooks
+253,3,4,Initial,2026-09-28,Pass,M. Patel
+254,3,4,Follow-up,2026-08-19,Pass,S. Nguyen
+255,3,4,Initial,2026-07-30,Pass,M. Patel
+256,3,4,Preparatory,2026-10-14,Pass,M. Patel
+257,3,4,Follow-up,2026-10-21,Pass,R. Alvarez
+258,3,4,Initial,2026-10-05,Pass,M. Patel
+259,3,4,Follow-up,2026-07-17,Pass,M. Patel
+260,3,4,Follow-up,2026-08-20,Pass with comments,S. Nguyen
+261,3,4,Preparatory,2026-09-15,Pass,T. Brooks
+262,3,4,Preparatory,2026-05-07,Pass with comments,S. Nguyen
+263,3,4,Preparatory,2026-10-03,Pass,S. Nguyen
+264,3,4,Preparatory,2026-05-13,Pass,R. Alvarez
+265,4,5,Follow-up,2026-05-05,Pass,M. Patel
+266,4,5,Initial,2026-10-26,Pass,S. Nguyen
+267,4,5,Follow-up,2026-10-24,Pass,M. Patel
+268,4,5,Follow-up,2026-06-10,Pass with comments,R. Alvarez
+269,4,5,Follow-up,2026-05-02,Pass,T. Brooks
+270,4,5,Initial,2026-06-15,Pass,R. Alvarez
+271,4,5,Initial,2026-07-31,Fail,T. Brooks
+272,4,5,Preparatory,2026-06-20,Fail,M. Patel
+273,4,5,Initial,2026-08-17,Pass,T. Brooks
+274,4,5,Follow-up,2026-06-18,Pass,T. Brooks
+275,4,5,Preparatory,2026-10-26,Pass,S. Nguyen
+276,4,5,Initial,2026-05-14,Pass,T. Brooks
+277,4,5,Preparatory,2026-05-19,Pass,M. Patel
+278,4,5,Follow-up,2026-09-29,Pass,S. Nguyen
+279,4,5,Follow-up,2026-07-15,Pass,M. Patel
+280,4,5,Preparatory,2026-07-29,Pass with comments,T. Brooks
+281,4,5,Follow-up,2026-09-17,Pass,R. Alvarez
+282,4,5,Initial,2026-07-24,Pass,S. Nguyen
+283,4,5,Preparatory,2026-05-11,Pass,T. Brooks
+284,4,5,Initial,2026-08-03,Pass,S. Nguyen
+285,4,5,Preparatory,2026-08-20,Pass,M. Patel
+286,4,5,Initial,2026-10-19,Pass with comments,T. Brooks
+287,2,5,Preparatory,2026-08-31,Pass,S. Nguyen
+288,2,5,Initial,2026-06-15,Pass,T. Brooks
+289,2,5,Initial,2026-07-29,Pass,M. Patel
+290,2,5,Preparatory,2026-09-11,Pass with comments,T. Brooks
+291,2,5,Follow-up,2026-06-04,Pass with comments,T. Brooks
+292,2,5,Initial,2026-08-19,Fail,R. Alvarez
+293,2,5,Preparatory,2026-09-28,Pass with comments,S. Nguyen
+294,2,5,Follow-up,2026-08-07,Pass,R. Alvarez
+295,2,5,Preparatory,2026-05-07,Pass with comments,T. Brooks
+296,2,5,Initial,2026-09-24,Pass,S. Nguyen
+297,2,5,Initial,2026-07-30,Pass,T. Brooks
+298,2,5,Initial,2026-07-10,Pass,S. Nguyen
+299,2,5,Initial,2026-05-12,Pass,T. Brooks
+300,2,5,Preparatory,2026-05-28,Pass,M. Patel
+301,2,5,Initial,2026-09-10,Pass,R. Alvarez
+302,2,5,Follow-up,2026-07-12,Pass,R. Alvarez
+303,2,5,Initial,2026-08-27,Pass,T. Brooks
+304,2,5,Follow-up,2026-08-27,Pass,S. Nguyen
+305,2,5,Follow-up,2026-05-09,Pass,T. Brooks
+306,2,5,Initial,2026-08-17,Pass,T. Brooks
+307,2,5,Preparatory,2026-10-10,Pass with comments,M. Patel
+308,2,5,Initial,2026-05-23,Pass,T. Brooks
+309,3,5,Follow-up,2026-08-22,Pass,T. Brooks
+310,3,5,Preparatory,2026-09-13,Pass,S. Nguyen
+311,3,5,Follow-up,2026-08-31,Fail,T. Brooks
+312,3,5,Preparatory,2026-10-06,Pass with comments,M. Patel
+313,3,5,Initial,2026-07-21,Pass,T. Brooks
+314,3,5,Initial,2026-09-13,Pass,M. Patel
+315,3,5,Follow-up,2026-06-23,Pass,T. Brooks
+316,3,5,Follow-up,2026-10-13,Pass,R. Alvarez
+317,3,5,Initial,2026-06-27,Pass with comments,S. Nguyen
+318,3,5,Follow-up,2026-09-29,Pass,T. Brooks
+319,3,5,Initial,2026-06-15,Pass,T. Brooks
+320,3,5,Follow-up,2026-09-02,Pass,S. Nguyen
+321,3,5,Initial,2026-06-26,Pass,S. Nguyen
+322,3,5,Follow-up,2026-08-08,Pass,T. Brooks
+323,3,5,Initial,2026-07-05,Pass,M. Patel
+324,3,5,Initial,2026-09-21,Fail,T. Brooks
+325,3,5,Follow-up,2026-06-07,Fail,T. Brooks
+326,3,5,Initial,2026-07-31,Pass,T. Brooks
+327,3,5,Follow-up,2026-05-11,Pass,T. Brooks
+328,3,5,Follow-up,2026-07-14,Pass,S. Nguyen
+329,3,5,Initial,2026-06-05,Pass,M. Patel
+330,3,5,Initial,2026-08-16,Pass,S. Nguyen
+331,4,6,Follow-up,2026-05-03,Pass with comments,M. Patel
+332,4,6,Preparatory,2026-05-07,Pass,S. Nguyen
+333,4,6,Preparatory,2026-07-21,Pass,R. Alvarez
+334,4,6,Preparatory,2026-09-14,Pass,M. Patel
+335,4,6,Follow-up,2026-10-27,Pass,S. Nguyen
+336,4,6,Follow-up,2026-07-29,Pass,S. Nguyen
+337,4,6,Initial,2026-08-31,Pass,T. Brooks
+338,4,6,Follow-up,2026-05-17,Pass,S. Nguyen
+339,4,6,Initial,2026-09-23,Pass,T. Brooks
+340,4,6,Preparatory,2026-07-03,Pass,S. Nguyen
+341,4,6,Initial,2026-10-19,Pass,M. Patel
+342,4,6,Follow-up,2026-06-07,Pass,T. Brooks
+343,4,6,Initial,2026-07-22,Fail,T. Brooks
+344,4,6,Preparatory,2026-06-14,Pass,R. Alvarez
+345,4,6,Initial,2026-10-02,Pass,S. Nguyen
+346,4,6,Follow-up,2026-06-09,Pass,M. Patel
+347,4,6,Preparatory,2026-10-05,Pass with comments,S. Nguyen
+348,4,6,Follow-up,2026-08-19,Pass,T. Brooks
+349,4,6,Follow-up,2026-09-19,Pass,M. Patel
+350,4,6,Initial,2026-10-09,Fail,M. Patel
+351,4,6,Follow-up,2026-07-02,Pass,T. Brooks
+352,4,6,Preparatory,2026-10-24,Pass,M. Patel
+353,2,6,Preparatory,2026-10-17,Fail,R. Alvarez
+354,2,6,Preparatory,2026-08-25,Pass,T. Brooks
+355,2,6,Initial,2026-10-02,Pass with comments,S. Nguyen
+356,2,6,Initial,2026-05-19,Pass with comments,S. Nguyen
+357,2,6,Follow-up,2026-08-07,Pass,S. Nguyen
+358,2,6,Preparatory,2026-07-29,Pass,T. Brooks
+359,2,6,Follow-up,2026-08-10,Pass with comments,T. Brooks
+360,2,6,Follow-up,2026-07-17,Fail,R. Alvarez
+361,2,6,Initial,2026-09-02,Pass,T. Brooks
+362,2,6,Follow-up,2026-05-26,Fail,S. Nguyen
+363,2,6,Initial,2026-05-04,Pass,R. Alvarez
+364,2,6,Follow-up,2026-05-23,Pass,M. Patel
+365,2,6,Initial,2026-08-09,Fail,T. Brooks
+366,2,6,Follow-up,2026-10-22,Pass,M. Patel
+367,2,6,Preparatory,2026-05-13,Fail,M. Patel
+368,2,6,Preparatory,2026-07-08,Pass,S. Nguyen
+369,2,6,Follow-up,2026-07-28,Pass,T. Brooks
+370,2,6,Preparatory,2026-05-12,Pass,S. Nguyen
+371,2,6,Follow-up,2026-06-24,Pass,S. Nguyen
+372,2,6,Preparatory,2026-07-26,Pass with comments,T. Brooks
+373,2,6,Preparatory,2026-05-01,Pass with comments,M. Patel
+374,2,6,Initial,2026-08-05,Pass,T. Brooks
+375,3,6,Initial,2026-06-04,Pass with comments,M. Patel
+376,3,6,Follow-up,2026-08-28,Pass,T. Brooks
+377,3,6,Preparatory,2026-10-13,Pass,S. Nguyen
+378,3,6,Preparatory,2026-10-30,Pass with comments,T. Brooks
+379,3,6,Preparatory,2026-09-25,Pass,S. Nguyen
+380,3,6,Follow-up,2026-08-13,Pass,T. Brooks
+381,3,6,Preparatory,2026-09-06,Pass,R. Alvarez
+382,3,6,Initial,2026-09-23,Pass,M. Patel
+383,3,6,Initial,2026-07-03,Pass,R. Alvarez
+384,3,6,Follow-up,2026-09-03,Pass,R. Alvarez
+385,3,6,Follow-up,2026-05-28,Pass,S. Nguyen
+386,3,6,Initial,2026-10-07,Pass,M. Patel
+387,3,6,Initial,2026-05-25,Pass with comments,M. Patel
+388,3,6,Preparatory,2026-09-18,Pass,S. Nguyen
+389,3,6,Follow-up,2026-08-29,Pass,R. Alvarez
+390,3,6,Follow-up,2026-05-29,Pass with comments,M. Patel
+391,3,6,Initial,2026-08-28,Fail,M. Patel
+392,3,6,Follow-up,2026-09-05,Pass,R. Alvarez
+393,3,6,Follow-up,2026-10-02,Pass,R. Alvarez
+394,3,6,Initial,2026-05-06,Pass,M. Patel
+395,3,6,Initial,2026-09-27,Pass,M. Patel
+396,3,6,Preparatory,2026-05-16,Pass,S. Nguyen
+397,1,7,Preparatory,2026-10-25,Pass,S. Nguyen
+398,1,7,Initial,2026-10-29,Fail,S. Nguyen
+399,1,7,Preparatory,2026-07-19,Pass,M. Patel
+400,1,7,Initial,2026-07-21,Pass,T. Brooks
+401,1,7,Preparatory,2026-09-06,Pass,M. Patel
+402,1,7,Preparatory,2026-08-10,Pass,M. Patel
+403,1,7,Follow-up,2026-10-08,Fail,R. Alvarez
+404,1,7,Initial,2026-08-14,Fail,T. Brooks
+405,1,7,Preparatory,2026-09-23,Pass,T. Brooks
+406,1,7,Initial,2026-06-14,Fail,S. Nguyen
+407,1,7,Preparatory,2026-07-27,Pass,R. Alvarez
+408,1,7,Initial,2026-10-11,Pass with comments,T. Brooks
+409,1,7,Initial,2026-07-24,Pass with comments,R. Alvarez
+410,1,7,Follow-up,2026-09-22,Pass with comments,S. Nguyen
+411,1,7,Initial,2026-10-10,Fail,R. Alvarez
+412,1,7,Initial,2026-08-12,Pass,M. Patel
+413,1,7,Initial,2026-10-06,Pass,R. Alvarez
+414,1,7,Initial,2026-06-14,Pass,M. Patel
+415,1,7,Preparatory,2026-09-11,Pass,S. Nguyen
+416,1,7,Initial,2026-06-26,Fail,T. Brooks
+417,1,7,Preparatory,2026-10-06,Pass,M. Patel
+418,1,7,Preparatory,2026-05-14,Fail,M. Patel
+419,2,7,Follow-up,2026-06-26,Pass,S. Nguyen
+420,2,7,Initial,2026-05-09,Fail,R. Alvarez
+421,2,7,Follow-up,2026-05-03,Pass,R. Alvarez
+422,2,7,Follow-up,2026-09-12,Pass,R. Alvarez
+423,2,7,Preparatory,2026-07-13,Pass,T. Brooks
+424,2,7,Follow-up,2026-06-18,Pass with comments,R. Alvarez
+425,2,7,Follow-up,2026-09-07,Fail,S. Nguyen
+426,2,7,Preparatory,2026-08-11,Pass with comments,R. Alvarez
+427,2,7,Initial,2026-05-26,Pass,S. Nguyen
+428,2,7,Preparatory,2026-09-14,Pass,R. Alvarez
+429,2,7,Follow-up,2026-06-17,Pass,R. Alvarez
+430,2,7,Preparatory,2026-07-03,Pass with comments,M. Patel
+431,2,7,Preparatory,2026-07-13,Pass,T. Brooks
+432,2,7,Initial,2026-05-06,Pass,R. Alvarez
+433,2,7,Follow-up,2026-09-24,Pass,R. Alvarez
+434,2,7,Follow-up,2026-06-07,Pass,T. Brooks
+435,2,7,Preparatory,2026-07-23,Pass,T. Brooks
+436,2,7,Follow-up,2026-10-21,Pass,S. Nguyen
+437,2,7,Follow-up,2026-09-30,Pass,M. Patel
+438,2,7,Preparatory,2026-09-21,Pass,T. Brooks
+439,2,7,Initial,2026-10-16,Fail,S. Nguyen
+440,2,7,Preparatory,2026-10-08,Pass,R. Alvarez
+441,5,7,Follow-up,2026-09-12,Pass,R. Alvarez
+442,5,7,Follow-up,2026-08-07,Pass,R. Alvarez
+443,5,7,Preparatory,2026-08-26,Pass,M. Patel
+444,5,7,Follow-up,2026-06-23,Pass,S. Nguyen
+445,5,7,Preparatory,2026-10-15,Pass,S. Nguyen
+446,5,7,Initial,2026-05-10,Pass with comments,T. Brooks
+447,5,7,Follow-up,2026-06-08,Pass,M. Patel
+448,5,7,Preparatory,2026-10-14,Pass,M. Patel
+449,5,7,Initial,2026-05-28,Pass,M. Patel
+450,5,7,Preparatory,2026-10-23,Pass,R. Alvarez
+451,5,7,Preparatory,2026-06-13,Pass,R. Alvarez
+452,5,7,Preparatory,2026-07-22,Pass,R. Alvarez
+453,5,7,Follow-up,2026-10-26,Fail,R. Alvarez
+454,5,7,Preparatory,2026-08-10,Fail,T. Brooks
+455,5,7,Follow-up,2026-08-29,Pass with comments,S. Nguyen
+456,5,7,Initial,2026-10-21,Pass with comments,R. Alvarez
+457,5,7,Follow-up,2026-07-03,Pass,M. Patel
+458,5,7,Initial,2026-10-16,Pass with comments,T. Brooks
+459,5,7,Preparatory,2026-10-29,Pass,T. Brooks
+460,5,7,Initial,2026-06-05,Pass,R. Alvarez
+461,5,7,Initial,2026-10-06,Pass with comments,M. Patel
+462,5,7,Preparatory,2026-05-26,Fail,T. Brooks
+463,2,8,Preparatory,2026-10-25,Pass with comments,S. Nguyen
+464,2,8,Initial,2026-06-09,Pass,M. Patel
+465,2,8,Follow-up,2026-05-27,Pass,M. Patel
+466,2,8,Initial,2026-10-28,Pass,R. Alvarez
+467,2,8,Preparatory,2026-05-30,Pass,S. Nguyen
+468,2,8,Initial,2026-06-11,Pass,M. Patel
+469,2,8,Preparatory,2026-08-06,Pass with comments,R. Alvarez
+470,2,8,Initial,2026-10-26,Pass,S. Nguyen
+471,2,8,Preparatory,2026-10-05,Pass with comments,T. Brooks
+472,2,8,Preparatory,2026-09-30,Pass,S. Nguyen
+473,2,8,Preparatory,2026-08-02,Pass,M. Patel
+474,2,8,Preparatory,2026-05-09,Pass,R. Alvarez
+475,2,8,Initial,2026-07-19,Pass with comments,T. Brooks
+476,2,8,Initial,2026-08-28,Pass,M. Patel
+477,2,8,Initial,2026-09-29,Pass with comments,T. Brooks
+478,2,8,Preparatory,2026-06-08,Pass,R. Alvarez
+479,2,8,Follow-up,2026-06-21,Pass with comments,T. Brooks
+480,2,8,Initial,2026-08-12,Pass,M. Patel
+481,2,8,Preparatory,2026-08-22,Fail,S. Nguyen
+482,2,8,Follow-up,2026-10-02,Pass with comments,S. Nguyen
+483,2,8,Initial,2026-06-24,Fail,T. Brooks
+484,2,8,Follow-up,2026-05-08,Pass,R. Alvarez
+485,5,8,Follow-up,2026-06-04,Pass,R. Alvarez
+486,5,8,Initial,2026-08-26,Pass with comments,T. Brooks
+487,5,8,Follow-up,2026-06-29,Fail,M. Patel
+488,5,8,Initial,2026-05-31,Pass,R. Alvarez
+489,5,8,Initial,2026-06-20,Pass with comments,S. Nguyen
+490,5,8,Preparatory,2026-08-28,Pass,M. Patel
+491,5,8,Preparatory,2026-07-13,Pass,M. Patel
+492,5,8,Initial,2026-05-27,Pass,R. Alvarez
+493,5,8,Follow-up,2026-09-26,Pass,M. Patel
+494,5,8,Follow-up,2026-08-19,Pass,S. Nguyen
+495,5,8,Preparatory,2026-10-21,Pass,R. Alvarez
+496,5,8,Initial,2026-10-16,Pass,S. Nguyen
+497,5,8,Preparatory,2026-06-22,Pass,R. Alvarez
+498,5,8,Follow-up,2026-08-06,Pass with comments,T. Brooks
+499,5,8,Follow-up,2026-05-11,Pass with comments,S. Nguyen
+500,5,8,Initial,2026-07-07,Fail,T. Brooks
+501,5,8,Initial,2026-06-16,Pass,M. Patel
+502,5,8,Initial,2026-07-07,Pass,T. Brooks
+503,5,8,Initial,2026-10-08,Pass,M. Patel
+504,5,8,Initial,2026-10-27,Pass with comments,R. Alvarez
+505,5,8,Follow-up,2026-08-21,Pass,T. Brooks
+506,5,8,Preparatory,2026-09-30,Fail,S. Nguyen
+507,3,8,Follow-up,2026-09-03,Pass with comments,S. Nguyen
+508,3,8,Initial,2026-05-11,Pass with comments,M. Patel
+509,3,8,Preparatory,2026-05-12,Pass,R. Alvarez
+510,3,8,Follow-up,2026-06-22,Pass,S. Nguyen
+511,3,8,Follow-up,2026-05-03,Pass,T. Brooks
+512,3,8,Preparatory,2026-06-10,Pass,R. Alvarez
+513,3,8,Preparatory,2026-07-23,Pass,T. Brooks
+514,3,8,Initial,2026-07-28,Pass with comments,M. Patel
+515,3,8,Preparatory,2026-05-12,Pass with comments,M. Patel
+516,3,8,Follow-up,2026-07-25,Pass,M. Patel
+517,3,8,Follow-up,2026-05-06,Pass with comments,M. Patel
+518,3,8,Initial,2026-09-30,Pass with comments,M. Patel
+519,3,8,Follow-up,2026-09-17,Fail,S. Nguyen
+520,3,8,Follow-up,2026-08-26,Pass,R. Alvarez
+521,3,8,Preparatory,2026-06-16,Pass with comments,T. Brooks
+522,3,8,Preparatory,2026-06-10,Fail,R. Alvarez
+523,3,8,Initial,2026-06-11,Pass with comments,S. Nguyen
+524,3,8,Follow-up,2026-06-02,Pass,S. Nguyen
+525,3,8,Initial,2026-05-30,Fail,T. Brooks
+526,3,8,Follow-up,2026-09-26,Fail,R. Alvarez
+527,3,8,Follow-up,2026-08-17,Pass,R. Alvarez
+528,3,8,Follow-up,2026-08-23,Pass,S. Nguyen
+529,4,9,Initial,2026-10-18,Pass,T. Brooks
+530,4,9,Preparatory,2026-10-03,Pass,T. Brooks
+531,4,9,Preparatory,2026-06-08,Pass,R. Alvarez
+532,4,9,Initial,2026-07-29,Pass,S. Nguyen
+533,4,9,Initial,2026-08-31,Pass,T. Brooks
+534,4,9,Follow-up,2026-09-02,Pass,S. Nguyen
+535,4,9,Preparatory,2026-08-25,Pass,R. Alvarez
+536,4,9,Initial,2026-10-05,Pass with comments,S. Nguyen
+537,4,9,Initial,2026-08-01,Pass with comments,T. Brooks
+538,4,9,Follow-up,2026-05-05,Pass,R. Alvarez
+539,4,9,Follow-up,2026-10-24,Pass,M. Patel
+540,4,9,Initial,2026-10-24,Pass,S. Nguyen
+541,4,9,Initial,2026-10-18,Pass,T. Brooks
+542,4,9,Follow-up,2026-08-24,Pass with comments,M. Patel
+543,4,9,Preparatory,2026-08-01,Pass,T. Brooks
+544,4,9,Follow-up,2026-08-23,Fail,T. Brooks
+545,4,9,Initial,2026-05-27,Pass with comments,M. Patel
+546,4,9,Follow-up,2026-07-26,Pass,R. Alvarez
+547,4,9,Preparatory,2026-07-14,Pass,T. Brooks
+548,4,9,Follow-up,2026-06-15,Pass,M. Patel
+549,4,9,Follow-up,2026-06-22,Pass,R. Alvarez
+550,4,9,Follow-up,2026-09-29,Pass with comments,R. Alvarez
+551,5,9,Initial,2026-07-31,Pass with comments,S. Nguyen
+552,5,9,Initial,2026-09-13,Fail,R. Alvarez
+553,5,9,Follow-up,2026-07-22,Pass,S. Nguyen
+554,5,9,Preparatory,2026-06-06,Pass with comments,R. Alvarez
+555,5,9,Follow-up,2026-05-29,Pass,M. Patel
+556,5,9,Preparatory,2026-06-04,Fail,T. Brooks
+557,5,9,Follow-up,2026-05-14,Pass,R. Alvarez
+558,5,9,Preparatory,2026-07-08,Pass with comments,S. Nguyen
+559,5,9,Initial,2026-08-14,Pass,T. Brooks
+560,5,9,Preparatory,2026-08-04,Pass,T. Brooks
+561,5,9,Follow-up,2026-07-06,Pass,T. Brooks
+562,5,9,Follow-up,2026-06-21,Pass,M. Patel
+563,5,9,Follow-up,2026-06-08,Pass,T. Brooks
+564,5,9,Preparatory,2026-09-09,Pass with comments,R. Alvarez
+565,5,9,Follow-up,2026-10-22,Pass,R. Alvarez
+566,5,9,Follow-up,2026-06-15,Pass,R. Alvarez
+567,5,9,Initial,2026-05-19,Pass,T. Brooks
+568,5,9,Initial,2026-09-13,Pass with comments,M. Patel
+569,5,9,Initial,2026-09-23,Fail,M. Patel
+570,5,9,Initial,2026-07-04,Fail,S. Nguyen
+571,5,9,Follow-up,2026-09-28,Pass,T. Brooks
+572,5,9,Initial,2026-07-16,Pass with comments,T. Brooks
+573,2,9,Preparatory,2026-10-03,Pass with comments,S. Nguyen
+574,2,9,Preparatory,2026-06-06,Pass with comments,M. Patel
+575,2,9,Initial,2026-06-03,Pass,R. Alvarez
+576,2,9,Initial,2026-09-03,Pass,T. Brooks
+577,2,9,Follow-up,2026-06-06,Pass,M. Patel
+578,2,9,Initial,2026-07-25,Pass,M. Patel
+579,2,9,Initial,2026-10-29,Pass,S. Nguyen
+580,2,9,Follow-up,2026-07-19,Pass,T. Brooks
+581,2,9,Follow-up,2026-06-01,Fail,R. Alvarez
+582,2,9,Follow-up,2026-05-19,Fail,S. Nguyen
+583,2,9,Follow-up,2026-07-22,Pass with comments,S. Nguyen
+584,2,9,Follow-up,2026-09-14,Pass,M. Patel
+585,2,9,Follow-up,2026-08-27,Pass,S. Nguyen
+586,2,9,Initial,2026-10-02,Fail,R. Alvarez
+587,2,9,Initial,2026-10-07,Pass,S. Nguyen
+588,2,9,Preparatory,2026-09-06,Pass,S. Nguyen
+589,2,9,Preparatory,2026-05-11,Pass,T. Brooks
+590,2,9,Preparatory,2026-06-23,Fail,R. Alvarez
+591,2,9,Follow-up,2026-06-01,Pass,R. Alvarez
+592,2,9,Preparatory,2026-06-04,Pass,M. Patel
+593,2,9,Follow-up,2026-05-05,Pass,M. Patel
+594,2,9,Preparatory,2026-07-15,Pass,S. Nguyen
+595,2,10,Preparatory,2026-08-29,Pass with comments,M. Patel
+596,2,10,Preparatory,2026-07-31,Fail,S. Nguyen
+597,2,10,Initial,2026-05-10,Pass,R. Alvarez
+598,2,10,Follow-up,2026-07-04,Pass,T. Brooks
+599,2,10,Preparatory,2026-07-09,Pass,S. Nguyen
+600,2,10,Follow-up,2026-10-15,Pass with comments,S. Nguyen
+601,2,10,Preparatory,2026-06-10,Pass,S. Nguyen
+602,2,10,Follow-up,2026-07-31,Pass,S. Nguyen
+603,2,10,Initial,2026-10-31,Pass,S. Nguyen
+604,2,10,Initial,2026-10-16,Fail,M. Patel
+605,2,10,Preparatory,2026-09-25,Pass,T. Brooks
+606,2,10,Preparatory,2026-08-13,Pass,S. Nguyen
+607,2,10,Preparatory,2026-07-26,Pass,T. Brooks
+608,2,10,Initial,2026-07-22,Pass with comments,M. Patel
+609,2,10,Preparatory,2026-10-05,Pass,M. Patel
+610,2,10,Preparatory,2026-10-11,Pass,T. Brooks
+611,2,10,Preparatory,2026-07-01,Pass,S. Nguyen
+612,2,10,Preparatory,2026-10-15,Pass,T. Brooks
+613,2,10,Follow-up,2026-08-03,Fail,T. Brooks
+614,2,10,Follow-up,2026-10-30,Pass,R. Alvarez
+615,2,10,Follow-up,2026-05-12,Pass,M. Patel
+616,2,10,Follow-up,2026-06-24,Pass,R. Alvarez
+617,1,10,Follow-up,2026-05-12,Pass with comments,M. Patel
+618,1,10,Initial,2026-05-01,Pass,R. Alvarez
+619,1,10,Follow-up,2026-05-06,Pass with comments,S. Nguyen
+620,1,10,Preparatory,2026-09-17,Pass,S. Nguyen
+621,1,10,Initial,2026-06-10,Fail,M. Patel
+622,1,10,Follow-up,2026-07-20,Pass,M. Patel
+623,1,10,Follow-up,2026-10-10,Fail,R. Alvarez
+624,1,10,Preparatory,2026-07-29,Pass,T. Brooks
+625,1,10,Follow-up,2026-08-01,Pass,T. Brooks
+626,1,10,Initial,2026-09-01,Pass,R. Alvarez
+627,1,10,Follow-up,2026-08-19,Pass,S. Nguyen
+628,1,10,Follow-up,2026-07-18,Pass,R. Alvarez
+629,1,10,Follow-up,2026-09-18,Pass,M. Patel
+630,1,10,Initial,2026-05-22,Pass,S. Nguyen
+631,1,10,Initial,2026-05-22,Pass,M. Patel
+632,1,10,Initial,2026-06-30,Pass with comments,S. Nguyen
+633,1,10,Preparatory,2026-09-17,Pass,S. Nguyen
+634,1,10,Follow-up,2026-06-05,Pass,S. Nguyen
+635,1,10,Follow-up,2026-05-14,Fail,S. Nguyen
+636,1,10,Follow-up,2026-08-19,Fail,T. Brooks
+637,1,10,Initial,2026-08-29,Pass,R. Alvarez
+638,1,10,Preparatory,2026-07-19,Pass,M. Patel
+639,4,10,Preparatory,2026-09-26,Pass with comments,T. Brooks
+640,4,10,Initial,2026-05-30,Pass with comments,M. Patel
+641,4,10,Preparatory,2026-05-14,Pass with comments,M. Patel
+642,4,10,Follow-up,2026-08-19,Pass,S. Nguyen
+643,4,10,Initial,2026-10-22,Fail,T. Brooks
+644,4,10,Preparatory,2026-09-01,Pass,T. Brooks
+645,4,10,Initial,2026-10-17,Fail,T. Brooks
+646,4,10,Follow-up,2026-07-15,Pass,S. Nguyen
+647,4,10,Follow-up,2026-05-27,Pass with comments,M. Patel
+648,4,10,Initial,2026-05-30,Pass,R. Alvarez
+649,4,10,Initial,2026-05-03,Pass with comments,S. Nguyen
+650,4,10,Initial,2026-07-18,Pass,M. Patel
+651,4,10,Follow-up,2026-10-31,Pass,M. Patel
+652,4,10,Follow-up,2026-09-01,Pass,M. Patel
+653,4,10,Initial,2026-05-09,Pass,R. Alvarez
+654,4,10,Preparatory,2026-09-14,Pass,M. Patel
+655,4,10,Initial,2026-07-18,Pass,R. Alvarez
+656,4,10,Preparatory,2026-07-05,Fail,S. Nguyen
+657,4,10,Preparatory,2026-06-04,Pass,R. Alvarez
+658,4,10,Initial,2026-07-23,Pass,R. Alvarez
+659,4,10,Follow-up,2026-06-16,Pass,R. Alvarez
+660,4,10,Follow-up,2026-09-25,Pass with comments,T. Brooks
