@@ -1,0 +1,20 @@
+// Relationships: inspections/deficiencies/material_receipts/test_results -> projects (project_id), inspections/deficiencies/material_receipts -> subcontractors (sub_id)
+// Calendar table: Calendar = CALENDAR(DATE(2026,5,1), DATE(2026,10,31)); relate Calendar[Date] to inspections[inspection_date]
+// Set the report date once: AsOf = DATE(2026,10,31)
+
+Total Inspections = COUNTROWS(inspections)
+First-Pass Rate = DIVIDE(CALCULATE(COUNTROWS(inspections), inspections[result] = "Pass"), [Total Inspections])
+Failed Inspections = CALCULATE(COUNTROWS(inspections), inspections[result] = "Fail")
+
+Open Deficiencies = CALCULATE(COUNTROWS(deficiencies), ISBLANK(deficiencies[date_closed]))
+Overdue Corrective Actions = CALCULATE(COUNTROWS(deficiencies), ISBLANK(deficiencies[date_closed]), deficiencies[due_date] < DATE(2026,10,31))
+Avg Days to Close = AVERAGEX(FILTER(deficiencies, NOT ISBLANK(deficiencies[date_closed])), DATEDIFF(deficiencies[date_found], deficiencies[date_closed], DAY))
+Closure Rate = DIVIDE(CALCULATE(COUNTROWS(deficiencies), NOT ISBLANK(deficiencies[date_closed])), COUNTROWS(deficiencies))
+
+Material Acceptance Rate = DIVIDE(CALCULATE(COUNTROWS(material_receipts), material_receipts[accepted] = "Y"), COUNTROWS(material_receipts))
+Test Pass Rate = DIVIDE(CALCULATE(COUNTROWS(test_results), test_results[result] = "Pass"), COUNTROWS(test_results))
+
+Sub Action =
+VAR fp = [First-Pass Rate] * 100
+VAR od = [Overdue Corrective Actions]
+RETURN SWITCH(TRUE(), fp < 60 || od >= 3, "Escalate", fp < 70 || od >= 1, "Watch", "On track")
